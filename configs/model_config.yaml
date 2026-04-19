@@ -1,6 +1,6 @@
 model:
   name: house-price-predictor
-  target_variable: SalePrice
+  target_variable: price
   best_model: XGBoost
   parameters:
     n_estimators: 200
